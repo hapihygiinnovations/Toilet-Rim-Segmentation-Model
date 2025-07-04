@@ -30,7 +30,7 @@ This is a semantic segmentation model built using deep learning techniques (e.g.
 
 **Raw Image and Predicted Mask**
 
-![Output](Output.png)
+![Output](output.png)
 
 ### Distance Measurement Output
 
